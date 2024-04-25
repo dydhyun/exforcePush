@@ -1,5 +1,5 @@
-# RESET
+# 1. RESET
 1. Hard
 2. Mixed
 3. Soft
-# Hard + forcePush
+# 2. Hard + forcePush
